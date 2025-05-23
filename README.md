@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Karthik</h1>
+< h1 align="center">Hi 👋, I'm Ajay Karthik</h1>
 <p align="center"> Software Engineer | AI </p>
 
 ---
@@ -22,7 +22,7 @@
 ### 📫 Connect with me
 
 - 💼 [Portfolio](https://innoprojects.tech)
-- 📧 ajaykarthik.eng@gmail.com
+- 📧 ajaykarthik.eng@gmail.com 📞+91 9600309140
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ajaykarthik-t)
 
 
