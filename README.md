@@ -25,6 +25,4 @@
 - 📧 ajaykarthik.eng@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ajaykarthik-t)
 
----
 
-<p align="center">✨</p>
