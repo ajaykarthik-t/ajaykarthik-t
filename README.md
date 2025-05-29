@@ -3,14 +3,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaykarthik-t&show_icons=true&theme=github_dark&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykarthik-t&layout=compact&theme=github_dark&hide=jupyter%20notebook" height="180" />
-</p>
-
----
 
 ### 🔥 GitHub Activity Graph
 
